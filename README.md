@@ -1,1 +1,1 @@
-# Data-Warehouse-with-BI-and-Dimensional-Modeling-Technique
+# DataWarehouse with BI and Dimensional Modeling Technique
