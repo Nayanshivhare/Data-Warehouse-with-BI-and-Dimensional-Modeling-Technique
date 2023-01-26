@@ -1,5 +1,8 @@
 # DataWarehouse with BI and Dimensional Modeling Technique
 
+![image](https://user-images.githubusercontent.com/66699491/214771836-e0e89191-6316-4b1e-ae2e-9ebc38f32ce8.png)
+
+
 ## A data warehouse is the central repository of Information for your organization. Data warehouse helps organizations to support and manage business intelligent (BI) activities.  Data flows into the Data warehouse from the organization's operational system.
 
 
